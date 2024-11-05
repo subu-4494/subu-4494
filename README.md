@@ -2,7 +2,7 @@
 With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.
 I’m currently working on Personal Projects🌱 .
 
-🌐 Socials:[LinkedIn](https://www.linkedin.com/in/sourabh-roy-68a724260/)
+🌐 Socials: [LinkedIn](https://www.linkedin.com/in/sourabh-roy-68a724260/)
 
 💻 Tech Stack:
 C C++ CSS3 HTML5 JavaScript Windows Terminal Shell Script Netlify Vercel Bootstrap DaisyUI Express.js jQuery NPM Next JS NodeJS React React Router React Hook Form
