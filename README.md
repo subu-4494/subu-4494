@@ -1,4 +1,4 @@
-🔭 I'm Sourabh Roy, a determined Computer Science Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming and Web Development.
+🔭 I'm Sourabh Roy, a determined Electrical Engineering Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming and Web Development.
 With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.
 I’m currently working on Personal Projects🌱 .
 
