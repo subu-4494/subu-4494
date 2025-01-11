@@ -19,6 +19,6 @@ I'm currently diving deep into Web Development and sharpening my skills in Data 
 ## 📫 Let's Connect!
 🌐 Socials: [LinkedIn](https://www.linkedin.com/in/sourabh-roy-68a724260/)
 
-💻 Tech Stack:
+##💻 Tech Stack:
 C C++ CSS3 HTML5 JavaScript Windows Terminal Shell Script Netlify Vercel Bootstrap DaisyUI Express.js jQuery NPM Next JS NodeJS React React Router React Hook Form
 
