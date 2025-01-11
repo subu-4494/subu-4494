@@ -1,4 +1,7 @@
-🔭 I'm Sourabh Roy, a determined Electrical Engineering Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming and Web Development.
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=My+name+is+Sourabh!+%F0%9F%91%8B;Enthusiastic+tech+enthusiast.)](https://git.io/typing-svg)
+
+
+🔭  A determined Electrical Engineering Undergrad at NIT Agartala. My fervor for software engineering propels me to excel in DSA, Competitive Programming and Web Development.
 With a passion for learning, I surpass challenges and am committed to refining my skills for optimal performance. I eagerly seek collaboration and growth opportunities in the tech sector.
 I’m currently working on Personal Projects🌱 .
 
